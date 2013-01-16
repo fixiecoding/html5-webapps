@@ -1,0 +1,17 @@
+
+{ 
+  "name": "MoviQz",
+  "description": "Movie Quiz",
+  "launch_path": "index.html",
+  "developer": {
+    "name": "Fixie Coder",
+    "url": "https://github.com/fixiecoder/sample"
+  },
+  "permissions": [
+  ],
+  "icons": {
+    "128":  "/img/oscar.png"
+  }
+}
+
+
